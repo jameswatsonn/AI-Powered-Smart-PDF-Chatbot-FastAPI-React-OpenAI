@@ -8,8 +8,8 @@
 
 ---
 
-## 🎯 Live Demos
-### Video 1: Transforming Complex Research into Actionable Intelligence
+## 🎯 Demos
+### Demo 1: Transforming Complex Research into Actionable Intelligence
 
 Uploading the review article "Experimental studies of black holes: status and future prospects" [1], we demonstrate the AI's ability to extract and distill sophisticated mathematical approaches from dense scientific literature, transforming complex astrophysics research into clear, actionable insights.
 
@@ -17,13 +17,13 @@ Uploading the review article "Experimental studies of black holes: status and fu
 
 *[1] Genzel, R., Eisenhauer, F. & Gillessen, S. Experimental studies of black holes: status and future prospects. Astron Astrophys Rev 32, 3 (2024).*
 
-### Video 2: Advanced Coding Problem Solving
+### Demo 2: Advanced Coding Problem Solving
 
-Showcasing technical problem-solving capabilities by tasking the AI with solving LeetCode Hard problem "Longest Balanced Subarray II," highlighting the system's ability to analyze complex requirements and generate optimal Python solutions with comprehensive explanations.
+Showcasing technical problem-solving capabilities by tasking the AI with solving LeetCode Hard problem "Substring with Concatenation of All Words," highlighting the system's ability to analyze complex requirements and generate optimal Python solutions with comprehensive explanations.
 
 [![LeetCode Problem Solving](https://img.youtube.com/vi/YOUR_VIDEO_ID_2/0.jpg)](https://youtube.com/watch?v=YOUR_VIDEO_ID_2)
 
-*LeetCode Problem: [Longest Balanced Subarray II (Hard)](https://leetcode.com/problems/longest-balanced-subarray-ii?difficulty=HARD)*
+*LeetCode Problem: [Substring with Concatenation of All Words (Hard)](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/?difficulty=HARD)*
 
 ---
 
