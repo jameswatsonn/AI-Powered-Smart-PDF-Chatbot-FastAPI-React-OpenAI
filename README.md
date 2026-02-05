@@ -13,7 +13,7 @@
 
 Uploading the review article "Experimental studies of black holes: status and future prospects" [1], we demonstrate the AI's ability to extract and distill sophisticated mathematical approaches from dense scientific literature, transforming complex astrophysics research into clear, actionable insights.
 
-[![Complex Research Analysis](https://jameswatsonn.github.io/AI-Powered-Smart-PDF-Chatbot-FastAPI-React-OpenAI/Black-Hole-Paper-Response.html)
+[📄 Complex Research Analysis](https://jameswatsonn.github.io/AI-Powered-Smart-PDF-Chatbot-FastAPI-React-OpenAI/Black-Hole-Paper-Response.html)
 
 *[1] Genzel, R., Eisenhauer, F. & Gillessen, S. Experimental studies of black holes: status and future prospects. Astron Astrophys Rev 32, 3 (2024).*
 
