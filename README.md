@@ -13,7 +13,7 @@
 
 Uploading the review article "Experimental studies of black holes: status and future prospects" [1], we demonstrate the AI's ability to extract and distill sophisticated mathematical approaches from dense scientific literature, transforming complex astrophysics research into clear, actionable insights.
 
-[![Complex Research Analysis](https://img.youtube.com/vi/YOUR_VIDEO_ID_1/0.jpg)](https://youtube.com/watch?v=YOUR_VIDEO_ID_1)
+[![Complex Research Analysis](https://jameswatsonn.github.io/AI-Powered-Smart-PDF-Chatbot-FastAPI-React-OpenAI/Black-Hole-Paper-Response.html)
 
 *[1] Genzel, R., Eisenhauer, F. & Gillessen, S. Experimental studies of black holes: status and future prospects. Astron Astrophys Rev 32, 3 (2024).*
 
@@ -21,7 +21,7 @@ Uploading the review article "Experimental studies of black holes: status and fu
 
 Showcasing technical problem-solving capabilities by tasking the AI with solving LeetCode Hard problem "Substring with Concatenation of All Words," highlighting the system's ability to analyze complex requirements and generate optimal Python solutions with comprehensive explanations.
 
-[![LeetCode Problem Solving](https://img.youtube.com/vi/YOUR_VIDEO_ID_2/0.jpg)](https://youtube.com/watch?v=YOUR_VIDEO_ID_2)
+[![LeetCode Problem Solving](https://jameswatsonn.github.io/AI-Powered-Smart-PDF-Chatbot-FastAPI-React-OpenAI/Python-Coding-Response.html)
 
 *LeetCode Problem: [Substring with Concatenation of All Words (Hard)](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/?difficulty=HARD)*
 
